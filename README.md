@@ -1,2 +1,2 @@
-# hackathon
-In order to particiate to the Hackathon please fork this repo and follow the rules posted at https://givevoicetofootball.github.io/
+# Idea
+Ths submission is fot the idea Product Ideaas track. It is about designing a compelling voice experience around purchasing football tickets.
